@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assembly-CSharp</name>
+    </assembly>
+    <members>
+        <member name="M:GameController.EnableTab(System.Int32)">
+            <summary>Enables the tab.</summary>
+            <param name="x">The x.Enable window of array pages</param>
+        </member>
+        <member name="M:GameController.Built">
+            <summary>Builts this instance.</summary>
+        </member>
+    </members>
+</doc>
